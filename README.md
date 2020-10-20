@@ -25,7 +25,7 @@ In your forked repository, edit `HacktheHacktober.js` and add your name, place a
 
 ### Step 3 
 
-Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own profile on the [HacktheHacktober](https://dscaot.github.io/HacktheHacktober/)!
+Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own profile on the [HacktheHacktober](https://hackthehacktober.dscaot.xyz/)!
 
 ### Step 4
 
