@@ -29,4 +29,9 @@ var profiles = [
     place : "Chandannagar, WB, India",
     github : "swapnanildutta"
   }
+  {
+    name : "Edison \"Silver\" Huang,
+    place : "Taipei, Taiwan, Taiwan",
+    github : "Silver077"
+  }
 ];
