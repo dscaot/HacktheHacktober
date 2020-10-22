@@ -28,10 +28,10 @@ var profiles = [
     name : "Swapnanil Dutta",
     place : "Chandannagar, WB, India",
     github : "swapnanildutta"
-  }
+  },
   {
-    name : "Edison \"Silver\" Huang,
+    name : "Edison Huang,
     place : "Taipei, Taiwan, Taiwan",
     github : "Silver077"
-  }
+  },
 ];
